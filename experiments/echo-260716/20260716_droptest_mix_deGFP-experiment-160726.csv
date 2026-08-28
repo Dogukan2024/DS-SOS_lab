@@ -1,0 +1,8 @@
+,Source Plate Barcode,Source Plate Type,Source Well,Content,Destination Well,Destination_plate Type,Transfer Volume,Reaction Volume (nL)
+0,384PP_AQ_BP_plate_1,384PP_AQ_BP,A01,Plasmid pP70a(2)-deGFP (nM),A01,384PP_Dest,50,50 (nL)
+1,384PP_AQ_BP_plate_1,384PP_AQ_BP,A02,EB,A02,384PP_Dest,50,50 (nL)
+2,384PP_AQ_BP_plate_1,384PP_AQ_BP,A03,EB,A03,384PP_Dest,50,50 (nL)
+3,384PP_AQ_BP_plate_1,384PP_AQ_BP,A02,EB,A04,384PP_Dest,50,50 (nL)
+4,384PP_AQ_BP_plate_1,384PP_AQ_BP,A03,EB,A05,384PP_Dest,50,50 (nL)
+5,384PP_AQ_BP_plate_1,384PP_AQ_BP,A04,CE,A06,384PP_Dest,50,50 (nL)
+6,384PP_AQ_BP_plate_1,384PP_AQ_BP,A05,H2O,A07,384PP_Dest,50,50 (nL)

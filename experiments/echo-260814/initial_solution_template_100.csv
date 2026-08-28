@@ -1,0 +1,3 @@
+Solution,arabinose 30%,arabinose 10%,IPTG (mM),EB,CE,2^f(nM),5^f(nM),7^f(nM),2^p(nM),5^p(nM),7^p(nM)
+Concentration,30.0,10.0,12.0,1.0,1.0,150.0,100.0,150.0,143.0,106.0,200.0
+Input plate type,384PP_AQ_BP,384PP_AQ_BP,384PP_AQ_BP,384PP_AQ_BP,384PP_AQ_BP,384PP_AQ_BP,384PP_AQ_BP,384PP_AQ_BP,384PP_AQ_BP,384PP_AQ_BP,384PP_AQ_BP
